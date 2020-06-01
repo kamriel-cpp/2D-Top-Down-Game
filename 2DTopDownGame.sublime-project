@@ -1,0 +1,32 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.meta",
+				"*.git*",
+				"*.ini",
+				"*.sln",
+				"*.csproj"
+			],
+			"folder_exclude_patterns":
+			[
+				"Library",
+				"Logs",
+				"Packages",
+				"ProjectSettings",
+				"Temp",
+				"Palettes",
+				"Prefabs",
+				"Resources",
+				"Samples",
+				"Scenes",
+				"Tilemaps",
+				"Tiles"
+			],
+			"name": "2D Top Down Game",
+			"path": "."
+		}
+	]
+}

@@ -1,0 +1,33 @@
+2D Top Down Game:
+
+Done:
+ ✔ Added Game Script                        @created(20-03-25 09:25)
+ ✔ Added Player Script                      @created(20-03-25 09:25)
+ ✔ Added MovementComponent Script           @created(20-03-25 09:25)
+ ✔ Added CameraFollow Script                @created(20-03-25 09:25)
+ ✔ Added FloorCounter Script                @created(20-04-21 02:27)
+ ✔ Added Extension Vector3.Round            @created(20-05-03 16:05)
+ ✔ Drawed New Sprites                       @created(20-05-03 16:10)
+
+Doing:
+ ☐ Add Floor Generation Script              @created(20-04-23 04:39)
+
+Todo:
+ ☐ Add Extension Vector2.Contain(Vector2)   под вопросом, т.к. ещё придётся переписывать генерацию данжа
+ ☐ Add Equipment Script                     @low
+
+Notes:
+  /**
+   * Add Floor Generation Script:
+   * 
+   *  - найти инфу о том, как работать с Tile Palette из скриптов - done
+   * 
+   *  - найти примеры практического применения коллапса волновой функции в Unity - ~done
+   * 
+   *  - прочитать статью и попробовать применить WFC, как это сделал Emerald Powder 
+   *      "Habr Советы по использованию алгоритма коллапса волновой функции.pdf"
+   *      "Процедурная генерация бесконечного уровня 1.mp4"
+   * 
+   *  - если предидущий вариант не подходит, то доделать генерацию данжа по видосу Сакутина
+   *      "2DRPG E06 Генератор ландшафта #2.mp4"
+  **/
